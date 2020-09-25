@@ -1,1 +1,1 @@
-# CoinMc-lar
+# CoinMc-laravel

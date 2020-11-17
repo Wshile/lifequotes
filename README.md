@@ -1,2 +1,2 @@
 # CoinMc-laravel 
-[![PHP version](h
+[![PHP version](htt

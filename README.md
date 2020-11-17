@@ -1,2 +1,2 @@
 # CoinMc-laravel 
-[![PHP version](https://
+[![PHP version](https://badge

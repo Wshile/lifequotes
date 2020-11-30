@@ -1,2 +1,2 @@
 # CoinMc-laravel 
-[![PHP version](https://badge.fury.io/ph/andskur%2Fcoin
+[![PHP version](https://badge.fury.io/ph/andskur%2Fcoinmc.sv

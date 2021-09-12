@@ -5,3 +5,4 @@
 **CoinMc-laravel** is a sCoinMarketCap.com api wrapper for Laravel 5.4
 
 ## Install
+

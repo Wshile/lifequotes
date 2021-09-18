@@ -6,4 +6,4 @@
 
 ## Install
 
-    compo
+    composer 

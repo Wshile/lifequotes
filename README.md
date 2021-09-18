@@ -6,4 +6,4 @@
 
 ## Install
 
-    composer 
+    composer requir

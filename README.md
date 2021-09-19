@@ -6,4 +6,4 @@
 
 ## Install
 
-    composer require andskur
+    composer require andskur/coinm

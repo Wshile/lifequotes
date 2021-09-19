@@ -6,4 +6,4 @@
 
 ## Install
 
-    composer require and
+    composer require andskur

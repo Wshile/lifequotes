@@ -8,4 +8,4 @@
 
     composer require andskur/coinmc
 
-### Confi
+### Configur

@@ -8,4 +8,6 @@
 
     composer require andskur/coinmc
 
-### Configuratio
+### Configuration
+
+A

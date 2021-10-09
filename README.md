@@ -10,4 +10,4 @@
 
 ### Configuration
 
-Afte
+After in

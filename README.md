@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After in
+After installin

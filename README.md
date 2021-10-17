@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, regist
+After installing, register th

@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, reg
+After installing, regist

@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, register th
+After installing, register the `A

@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, register the `A
+After installing, register the `And

@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, register the `And
+After installing, register the `Andskur\Co

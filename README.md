@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, register the `Andskur\CoinM
+After installing, register the `Andskur\CoinMc\C

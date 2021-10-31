@@ -10,4 +10,4 @@
 
 ### Configuration
 
-After installing, register the `Andskur\CoinMc\CoinMcS
+After installing, register the `Andskur\CoinMc\CoinMcServ

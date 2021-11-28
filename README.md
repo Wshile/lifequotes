@@ -13,4 +13,5 @@
 After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `config/app.php` configuration file:
 
 ```php
-'providers'
+'providers' => [
+  

@@ -15,3 +15,5 @@ After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `co
 ```php
 'providers' => [
     // Other service providers...
+
+   

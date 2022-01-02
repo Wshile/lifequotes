@@ -16,4 +16,4 @@ After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `co
 'providers' => [
     // Other service providers...
 
-    Andskur\CoinM
+    Andskur\CoinMc\Co

@@ -18,3 +18,5 @@ After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `co
 
     Andskur\CoinMc\CoinMcServiceProvider::class,
 ],
+```
+

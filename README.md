@@ -20,4 +20,4 @@ After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `co
 ],
 ```
 
-Also, add the `CoinMc` facade to the `aliases` 
+Also, add the `CoinMc` facade to the `aliases` array

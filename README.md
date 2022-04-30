@@ -23,4 +23,5 @@ After installing, register the `Andskur\CoinMc\CoinMcServiceProvide` in your `co
 Also, add the `CoinMc` facade to the `aliases` array in your `app` configuration file:
 
 ```php
-'CoinMc' => Andskur\CoinMc\CoinMcFacade::clas
+'CoinMc' => Andskur\CoinMc\CoinMcFacade::class,
+``

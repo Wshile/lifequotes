@@ -25,3 +25,4 @@ Also, add the `CoinMc` facade to the `aliases` array in your `app` configuration
 ```php
 'CoinMc' => Andskur\CoinMc\CoinMcFacade::class,
 ```
+

@@ -27,3 +27,5 @@ Also, add the `CoinMc` facade to the `aliases` array in your `app` configuration
 ```
 
 ### Usage
+
+```ph

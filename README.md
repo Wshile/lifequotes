@@ -31,4 +31,4 @@ Also, add the `CoinMc` facade to the `aliases` array in your `app` configuration
 ```php
 <?php
 
-namespace App\Http\
+namespace App\Http\Contro

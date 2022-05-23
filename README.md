@@ -35,4 +35,4 @@ namespace App\Http\Controllers;
 
 use CoinMc;
 
-class SomeController extends Contro
+class SomeController extends Controll

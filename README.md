@@ -37,3 +37,4 @@ use CoinMc;
 
 class SomeController extends Controller
 {
+    

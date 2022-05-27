@@ -37,4 +37,4 @@ use CoinMc;
 
 class SomeController extends Controller
 {
-    public f
+    public fu

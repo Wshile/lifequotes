@@ -37,4 +37,4 @@ use CoinMc;
 
 class SomeController extends Controller
 {
-    public function inde
+    public function index(C

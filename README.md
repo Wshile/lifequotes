@@ -37,4 +37,4 @@ use CoinMc;
 
 class SomeController extends Controller
 {
-    public function index(CoinMc $coin
+    public function index(CoinMc $coinmc

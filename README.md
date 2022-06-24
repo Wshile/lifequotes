@@ -40,4 +40,4 @@ class SomeController extends Controller
     public function index(CoinMc $coinmc)
     {
 
-        // Get CoinMarketCap tickers sorting by 
+        // Get CoinMarketCap tickers sorting by 24h vo

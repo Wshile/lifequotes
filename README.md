@@ -42,3 +42,5 @@ class SomeController extends Controller
 
         // Get CoinMarketCap tickers sorting by 24h volume
 		$coinmc->getTicker();
+
+	

@@ -44,4 +44,5 @@ class SomeController extends Controller
 		$coinmc->getTicker();
 
 		// Get ticker for specific coin
-		$coin = 'bitcoi
+		$coin = 'bitcoin';
+		$

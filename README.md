@@ -47,4 +47,4 @@ class SomeController extends Controller
 		$coin = 'bitcoin';
 		$coinmc->tickerCoin($coin);
 
-		// Get globa
+		// Get global d

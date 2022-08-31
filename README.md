@@ -48,4 +48,4 @@ class SomeController extends Controller
 		$coinmc->tickerCoin($coin);
 
 		// Get global data
-		$coinmc->globalDa
+		$coinmc->globalDat

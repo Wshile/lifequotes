@@ -50,3 +50,4 @@ class SomeController extends Controller
 		// Get global data
 		$coinmc->globalData();
     }
+}

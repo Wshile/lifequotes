@@ -51,3 +51,4 @@ class SomeController extends Controller
 		$coinmc->globalData();
     }
 }
+```

@@ -53,4 +53,4 @@ class SomeController extends Controller
 }
 ```
 
-See t
+See the [

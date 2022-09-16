@@ -53,4 +53,4 @@ class SomeController extends Controller
 }
 ```
 
-See the [API documentat
+See the [API documentatio

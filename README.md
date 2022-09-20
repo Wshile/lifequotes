@@ -53,4 +53,4 @@ class SomeController extends Controller
 }
 ```
 
-See the [API documentation](https://
+See the [API documentation](https://coi

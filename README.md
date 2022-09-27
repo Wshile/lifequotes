@@ -53,4 +53,4 @@ class SomeController extends Controller
 }
 ```
 
-See the [API documentation](https://coinmarketcap.com/api/) for m
+See the [API documentation](https://coinmarketcap.com/api/) for more i

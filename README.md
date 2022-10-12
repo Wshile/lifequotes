@@ -57,4 +57,4 @@ See the [API documentation](https://coinmarketcap.com/api/) for more information
 
 ## License
 
-Co
+Coi

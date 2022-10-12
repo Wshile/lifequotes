@@ -54,3 +54,5 @@ class SomeController extends Controller
 ```
 
 See the [API documentation](https://coinmarketcap.com/api/) for more information about the endpoints and responses.
+
+## L

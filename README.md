@@ -57,4 +57,4 @@ See the [API documentation](https://coinmarketcap.com/api/) for more information
 
 ## License
 
-CoinMc-laravel is
+CoinMc-laravel is o

@@ -57,4 +57,4 @@ See the [API documentation](https://coinmarketcap.com/api/) for more information
 
 ## License
 
-CoinMc-laravel is open-s
+CoinMc-laravel is open-sour

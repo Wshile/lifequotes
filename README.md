@@ -57,4 +57,4 @@ See the [API documentation](https://coinmarketcap.com/api/) for more information
 
 ## License
 
-CoinMc-laravel is open-sourced software l
+CoinMc-laravel is open-sourced software lic

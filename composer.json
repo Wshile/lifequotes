@@ -1,3 +1,5 @@
 
 {
     "name": "andskur/coinmc",
+    "description": "CoinMarketCap.com api wrapper for Laravel 5.4",
+    "keywords": ["laravel", "cryptocurrency", "coinmarketcap", "coinmarketcap.com", "bitcoin"] ,

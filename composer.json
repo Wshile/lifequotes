@@ -9,3 +9,7 @@
         {
             "name": "Andrey Skurlatov",
             "email": "a.skurlatov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",

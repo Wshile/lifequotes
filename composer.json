@@ -3,3 +3,7 @@
     "name": "andskur/coinmc",
     "description": "CoinMarketCap.com api wrapper for Laravel 5.4",
     "keywords": ["laravel", "cryptocurrency", "coinmarketcap", "coinmarketcap.com", "bitcoin"] ,
+    "homepage": "https://github.com/andskur/CoinMc-laravel",
+    "license": "MIT",
+    "authors": [
+        {

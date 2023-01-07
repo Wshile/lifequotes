@@ -20,3 +20,6 @@
         "psr-4": {
             "Andskur\\CoinMc\\": "src/"
         }
+    },
+    "minimum-stability": "dev"
+}

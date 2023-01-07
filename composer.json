@@ -16,3 +16,7 @@
         "laravel/framework": ">=5.4.0",
         "guzzlehttp/guzzle": "^6.2"
     },
+    "autoload": {
+        "psr-4": {
+            "Andskur\\CoinMc\\": "src/"
+        }

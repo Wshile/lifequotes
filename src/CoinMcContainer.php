@@ -9,3 +9,6 @@ use GuzzleHttp\Client;
 * Laravel container for CoinMarketCap API
 */
 class CoinMcContainer
+{
+	/**
+	 * @var  string

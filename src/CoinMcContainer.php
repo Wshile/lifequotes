@@ -12,3 +12,5 @@ class CoinMcContainer
 {
 	/**
 	 * @var  string
+	 */
+	const API_URL = 'https://api.coinmarketcap.com/v1/';

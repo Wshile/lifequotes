@@ -17,3 +17,5 @@ class CoinMcContainer
 
 	/**
 	 * Make GET Api call to coinmarketcap.com
+	 * @param  string $endpoint Endpoint of Api request
+	 * @param  array  $params   Array of Get http parameters

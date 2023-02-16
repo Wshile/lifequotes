@@ -14,3 +14,6 @@ class CoinMcContainer
 	 * @var  string
 	 */
 	const API_URL = 'https://api.coinmarketcap.com/v1/';
+
+	/**
+	 * Make GET Api call to coinmarketcap.com

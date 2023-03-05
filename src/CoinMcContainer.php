@@ -22,3 +22,7 @@ class CoinMcContainer
 	 * @return json           	Return Json object
 	 */
 	private function makeRequest ($endpoint, $params = array())
+	{
+		$client = new Client();
+
+		$url = self::API_URL . $endpoint;

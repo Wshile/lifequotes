@@ -35,3 +35,7 @@ class CoinMcContainer
 		$request = $client->request('GET', $url);
 		$response = $request->getBody();
 		$json = json_decode($response->getContents());
+		return $json;
+	}
+
+	/**

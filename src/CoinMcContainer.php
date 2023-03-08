@@ -31,3 +31,7 @@ class CoinMcContainer
 			$query = '?' . http_build_query($params);
 			$url .= $query;
 		}
+
+		$request = $client->request('GET', $url);
+		$response = $request->getBody();
+		$json = json_decode($response->getContents());

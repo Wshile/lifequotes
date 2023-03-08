@@ -26,3 +26,8 @@ class CoinMcContainer
 		$client = new Client();
 
 		$url = self::API_URL . $endpoint;
+
+		if ($params) {
+			$query = '?' . http_build_query($params);
+			$url .= $query;
+		}

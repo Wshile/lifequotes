@@ -42,3 +42,8 @@ class CoinMcContainer
 	 * Get CoinMarketCap tickers sorting by 24h volume
 	 * @param  string $limit    	Only returns the top limit results
 	 * @param  string $currency 	Currency for convert (default - USD)
+	 * @return json            		All ticker object
+	 */
+	public function ticker ($limit = false, $currency = false)
+	{
+		$params = array();

@@ -53,3 +53,4 @@ class CoinMcContainer
 		}
 		if ($limit !== false) {
 			$params['limit'] = $limit;
+		}

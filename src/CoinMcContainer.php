@@ -47,3 +47,9 @@ class CoinMcContainer
 	public function ticker ($limit = false, $currency = false)
 	{
 		$params = array();
+
+		if ($currency) {
+			$params['convert'] = $currency;
+		}
+		if ($limit !== false) {
+			$params['limit'] = $limit;

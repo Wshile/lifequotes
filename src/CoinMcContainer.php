@@ -54,3 +54,9 @@ class CoinMcContainer
 		if ($limit !== false) {
 			$params['limit'] = $limit;
 		}
+
+		return $this->makeRequest('ticker', $params);
+	}
+
+	/**
+	 * Get ticker for specific coin

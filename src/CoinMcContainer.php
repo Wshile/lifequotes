@@ -63,3 +63,7 @@ class CoinMcContainer
 	 * @param  string $coin     	Coin name
 	 * @param  string $currency 	Currency for convert (default - USD)
 	 * @return json           		Specific ticker object
+	 */
+	public function tickerCoin ($coin, $currency = false)
+	{
+		$params = array();

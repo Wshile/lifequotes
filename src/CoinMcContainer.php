@@ -67,3 +67,6 @@ class CoinMcContainer
 	public function tickerCoin ($coin, $currency = false)
 	{
 		$params = array();
+
+		if ($currency) {
+			$params['convert'] = $currency;

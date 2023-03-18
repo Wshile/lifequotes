@@ -70,3 +70,4 @@ class CoinMcContainer
 
 		if ($currency) {
 			$params['convert'] = $currency;
+		}

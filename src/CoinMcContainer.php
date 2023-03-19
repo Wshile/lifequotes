@@ -87,3 +87,7 @@ class CoinMcContainer
 		if ($currency) {
 			$params['convert'] = $currency;
 		}
+
+		return $this->makeRequest('global', $params);
+	}
+}

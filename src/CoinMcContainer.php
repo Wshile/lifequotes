@@ -74,3 +74,11 @@ class CoinMcContainer
 
 		return $this->makeRequest('ticker/' . $coin, $params)[0];
 	}
+
+	/**
+	 * Get global data
+	 * @param  string $currency 	Currency for convert (default - USD)
+	 * @return json              	Global data object
+	 */
+	public function globalData ($currency = false)
+	{

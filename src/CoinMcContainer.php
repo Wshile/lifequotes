@@ -71,3 +71,6 @@ class CoinMcContainer
 		if ($currency) {
 			$params['convert'] = $currency;
 		}
+
+		return $this->makeRequest('ticker/' . $coin, $params)[0];
+	}

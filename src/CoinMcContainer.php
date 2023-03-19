@@ -82,3 +82,8 @@ class CoinMcContainer
 	 */
 	public function globalData ($currency = false)
 	{
+		$params = array();
+
+		if ($currency) {
+			$params['convert'] = $currency;
+		}

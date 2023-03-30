@@ -15,3 +15,9 @@ class CoinMcServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+        //
+    }
+
+    /**
+     * Register the application services.
+     *

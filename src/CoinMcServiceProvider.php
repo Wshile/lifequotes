@@ -23,3 +23,10 @@ class CoinMcServiceProvider extends ServiceProvider
      *
      * @return void
      */
+    public function register()
+    {
+        $this->app->bind('CoinMc', function () {
+            return new CoinMcContainer();
+        });
+    }
+}
